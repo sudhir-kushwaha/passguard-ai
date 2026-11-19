@@ -1,0 +1,24 @@
+{
+  "name": "PassGuard — private password security",
+  "short_name": "PassGuard",
+  "description": "Analyze and generate passwords privately in your browser.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#111311",
+  "theme_color": "#111311",
+  "icons": [
+    {
+      "src": "/icons/passguard-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/passguard-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
